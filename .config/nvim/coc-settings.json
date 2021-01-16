@@ -1,0 +1,4 @@
+{
+  "coc.preferences.extensionUpdateCheck": "weekly",
+  "emmet.includeLanguages": { "javascript": "javascriptreact" }
+}
